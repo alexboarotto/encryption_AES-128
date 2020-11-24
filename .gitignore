@@ -1,0 +1,3 @@
+#ignore .js files generated when compiling typescript
+
+*.js
